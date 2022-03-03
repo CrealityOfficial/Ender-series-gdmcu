@@ -1663,10 +1663,7 @@
   #define LCD_LANGUAGE_2  en
   #define LCD_LANGUAGE_3  es
   #define LCD_LANGUAGE_4  pt_br
-<<<<<<< HEAD
   #define LCD_LANGUAGE_5  it
-=======
->>>>>>> change-487-1
   
   #ifdef LCD_LANGUAGE_2
     #define LCD_LANGUAGE_AUTO_SAVE // Automatically save language to EEPROM on change
